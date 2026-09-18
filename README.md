@@ -1,4 +1,4 @@
-# RennZ Base Bot (ChiiMD-style)
+# RennZ Base Bot
 
 Base WhatsApp bot pake `@rennzsync/baileys`, dengan struktur plugin & handler ala ChiiMD.
 
