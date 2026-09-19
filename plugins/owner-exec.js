@@ -1,5 +1,5 @@
 import syntaxerror from 'syntax-error';
-import * as baileys from 'baileys';
+import * as baileys from '@rennzsync/baileys';
 import util from 'util';
 import { fileURLToPath } from 'url';
 import { dirname } from 'path';
