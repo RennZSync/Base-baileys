@@ -1,5 +1,5 @@
 import './config.js';
-
+// fix error sikit
 import { createRequire } from 'module';
 import path, { join } from 'path';
 import { fileURLToPath, pathToFileURL } from 'url';
