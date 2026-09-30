@@ -8,7 +8,7 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "@rennzsync/baileys": "^10.2.4",
+    "@rennzsync/baileys": "^10.6.0",
     "@cacheable/node-cache": "^1.0.0",
     "async-mutex": "^0.5.0",
     "awesome-phonenumber": "^7.2.0",
